@@ -5,12 +5,14 @@ Este é um projeto Open Source desenvolvido pelos alunos da UNIVESP com o objeti
 ## Sobre o Projeto
 
 A Biblioteca Pública visa proporcionar uma experiência amigável e eficiente para os usuários, permitindo que eles:
+
 - Pesquisem e encontrem obras disponíveis no acervo.
 - Visualizem detalhes sobre cada obra, como autor, resumo e disponibilidade.
 - Realizem empréstimos e reservas diretamente pela plataforma.
 - Acessem materiais digitais, quando disponíveis.
 
 ## Funcionalidades
+
 - **Cadastro Facilitado:** Os metadados das obras terão cadastro facilitado através de integração com o Google Books API.
 - **Pesquisa Avançada:** Os usuários podem buscar por título, autor, categoria e outros critérios.
 - **Detalhes das Obras:** Cada obra possui uma página com informações detalhadas.
@@ -18,6 +20,7 @@ A Biblioteca Pública visa proporcionar uma experiência amigável e eficiente p
 - **Notificações:** Receba alertas sobre datas de devolução e disponibilidade de obras.
 
 ## Tecnologias Utilizadas
+
 - **Frontend:** Python e Django
 - **Backend:** Python e Django
 - **Banco de Dados:** MySQL
@@ -26,15 +29,16 @@ A Biblioteca Pública visa proporcionar uma experiência amigável e eficiente p
 - **Repositório de Imagens:** Amazon Web Services
 
 ## Roadmap
-  * :white_check_mark: Setup Inicial
-    * :white_check_mark: Criação do Projeto no GitHub com License e Read.me
-  * :black_square_button: Aplicativos
-    * :black_square_button: Camada de Lista de Bibliotecas na Home
-    * :black_square_button: Camada de Lista de Livros Associados a Biblioteca
-    * :black_square_button: Camada de Controle de Usuários
-  * :black_square_button: Docker Compose
-  * :black_square_button: Testes de Unidade
-  * :black_square_button: Testes Automatizados
+
+- :white_check_mark: Setup Inicial
+  - :white_check_mark: Criação do Projeto no GitHub com License e Read.me
+- :black_square_button: Aplicativos
+  - :black_square_button: Camada de Lista de Bibliotecas na Home
+  - :black_square_button: Camada de Lista de Livros Associados a Biblioteca
+  - :black_square_button: Camada de Controle de Usuários
+- :black_square_button: Docker Compose
+- :black_square_button: Testes de Unidade
+- :black_square_button: Testes Automatizados
 
 ... continua
 
@@ -53,10 +57,9 @@ Turma DRP05-PJI240-SALA-003GRUPO-010
 <br />
 <b>Roger Gelonezi</b></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Roger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriogelonezi/)](https://www.linkedin.com/in/rogeriogelonezi/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Roger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rogeriogelonezi/)](https://www.linkedin.com/in/rogeriogelonezi/)
 [![Gmail Badge](https://img.shields.io/badge/-rogeriogelonezi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rogeriogelonezi@gmail.com)](mailto:rogeriogelonezi@gmail.com)
 <br />
-
 
 <a href="https://github.com/Mauroleao">
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/91487092?v=4" width="100px;" alt=""/>
@@ -64,7 +67,7 @@ Turma DRP05-PJI240-SALA-003GRUPO-010
 <b>Mauro Leão</b></a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mauro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauro-s%C3%A9rgio-bouwman-le%C3%A3o-b62b41260/)](https://www.linkedin.com/in/mauro-s%C3%A9rgio-bouwman-le%C3%A3o-b62b41260/)
-
+[![Gmail Badge](https://img.shields.io/badge/-bouwmanleao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bouwmanleao@gmail.com)](mailto:bouwmanleao@gmail.com)
 
 <a href="https://github.com/leandro2206">
 <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQF7iL182-PeFA/profile-displayphoto-shrink_200_200/0/1706721638936?e=1727913600&v=beta&t=FR4GifBaX0b4fOxoCE4hXEQlsBi1CATPD1TScgUMJTQ" width="100px;" alt=""/>
@@ -74,7 +77,6 @@ Turma DRP05-PJI240-SALA-003GRUPO-010
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-roberto-r-24389852/)](https://www.linkedin.com/in/leandro-roberto-r-24389852/)
 
-
 <a href="https://github.com/leonardo16silva12">
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55456319?v=4" width="100px;" alt=""/>
 <br />
@@ -82,4 +84,3 @@ Turma DRP05-PJI240-SALA-003GRUPO-010
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leonardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo16silva12/)](https://www.linkedin.com/in/leonardo16silva12/)
-
